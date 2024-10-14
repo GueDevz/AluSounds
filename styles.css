@@ -1,0 +1,7 @@
+@import url(./variables.css);
+
+h1 {
+    font-family: var(--title-font);
+    font-size: var(--title-size);
+    color: black;
+}
